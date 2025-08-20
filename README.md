@@ -1,24 +1,19 @@
-# README
+Experiences Sorting Sample App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A minimal Airbnb-style web application built as a technical project for FoundersCard. Demonstrates core full-stack functionality using Ruby on Rails.
 
-Things you may want to cover:
+Features
 
-* Ruby version
+View and search listings
 
-* System dependencies
+Responsive UI
 
-* Configuration
+Tech Stack
 
-* Database creation
+Backend / Full Stack: Ruby on Rails
 
-* Database initialization
+Database: PostgreSQL
 
-* How to run the test suite
+Frontend: Rails ERB, HTML, CSS
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Setup
